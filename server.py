@@ -1,6 +1,6 @@
 from flask import Flask
 
-PORT = 8000
+PORT = 8080
 MESSAGE = "Hello, DEMO!\n"
 
 app = Flask(__name__)
